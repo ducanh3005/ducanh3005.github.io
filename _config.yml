@@ -22,12 +22,12 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Chào mừng bạn đến với blog của tôi
 description: > # this means to ignore newlines until "Language & timezone"
-Page này sẽ chia sẻ cho bạn những kinh nghiệm của tôi
+Page này sẽ chia sẻ cho bạn những kinh nghiệm mà tôi 
 
 
 ## => Language and Timezone
 ##############################
-lang: vn# the language of your site, default as "en"
+lang: # the language of your site, default as "en"
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
