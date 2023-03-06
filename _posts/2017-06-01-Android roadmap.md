@@ -6,22 +6,20 @@ article_header:
   image:
     src: /screenshot.jpg
 ---
-# Lộ trình học Android cho người mới bắt đầu 2023
 Mục đích chính của bài viết này là hướng dẫn bạn có một cái nhìn tổng quát để phát triển ứng dụng Android, hỗ trợ bạn tìm thấy lối đi cho việc lập trình Android của bạn.
 ## Mục lục
-- [Lộ trình học Android cho người mới bắt đầu 2023](#lộ-trình-học-android-cho-người-mới-bắt-đầu-2023)
-  - [Mục lục](#mục-lục)
-  - [Lộ trình  Android trở thành Android Developer năm 2023](#lộ-trình--android-trở-thành-android-developer-năm-2023)
-  - [Ngôn ngữ lập trình Android ( Android Programming Languages)](#ngôn-ngữ-lập-trình-android--android-programming-languages)
-    - [Java](#java)
-    - [Kotlin](#kotlin)
-  - [Các kỹ năng chung để phát triển](#các-kỹ-năng-chung-để-phát-triển)
-  - [IDE để phát triển ứng dụng (Android Studio)](#ide-để-phát-triển-ứng-dụng-android-studio)
-  - [Kiến thức lập trình ứng dụng](#kiến-thức-lập-trình-ứng-dụng)
-  - [SQL](#sql)
-  - [Git](#git)
-  - [Testing (Kiểm thử phần mềm)](#testing-kiểm-thử-phần-mềm)
-  - [Tổng kết](#tổng-kết)
+- [Mục lục](#mục-lục)
+- [Lộ trình  Android trở thành Android Developer năm 2023](#lộ-trình--android-trở-thành-android-developer-năm-2023)
+- [Ngôn ngữ lập trình Android ( Android Programming Languages)](#ngôn-ngữ-lập-trình-android--android-programming-languages)
+  - [Java](#java)
+  - [Kotlin](#kotlin)
+- [Các kỹ năng chung để phát triển](#các-kỹ-năng-chung-để-phát-triển)
+- [IDE để phát triển ứng dụng (Android Studio)](#ide-để-phát-triển-ứng-dụng-android-studio)
+- [Kiến thức lập trình ứng dụng](#kiến-thức-lập-trình-ứng-dụng)
+- [SQL](#sql)
+- [Git](#git)
+- [Testing (Kiểm thử phần mềm)](#testing-kiểm-thử-phần-mềm)
+- [Tổng kết](#tổng-kết)
 
 ## Lộ trình  Android trở thành Android Developer năm 2023
 Lộ trình mà tôi đưa ra đây không phải là con đường duy nhất giúp bạn  trở thành Android Developer mà nó sẽ giúp bạn tiếp cận một cách khoa học  hơn. Từ đó bạn sẽ nhanh chóng phát triển kĩ năng lập trình của mình hơn
