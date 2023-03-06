@@ -18,7 +18,11 @@ Mục đích chính của bài viết này là hướng dẫn bạn có một c�
 - [Kiến thức lập trình ứng dụng](#kiến-thức-lập-trình-ứng-dụng)
 - [SQL](#sql)
 - [Git](#git)
+- [XML](#xml)
+- [Nguyên tắc thiết kế Material](#nguyên-tắc-thiết-kế-material)
+- [Web Back end](#web-back-end)
 - [Testing (Kiểm thử phần mềm)](#testing-kiểm-thử-phần-mềm)
+- [App Manifest](#app-manifest)
 - [Tổng kết](#tổng-kết)
 
 ## Lộ trình  Android trở thành Android Developer năm 2023
@@ -112,15 +116,15 @@ Vì vậy, nếu muốn trở thành Android Developer, trong lộ trình học 
 ## Git
 Lập trình viên Android nói riêng và lập trình viên phần mềm nói chung đều phải học sử dụng Git để quản lý mã nguồn của mình. Bạn nên tìm hiểu những điều cơ bản về Git như tạo và sử dụng kho lưu trữ, biết cách commit, thay đổi commit…
 
-##XML
+## XML
 XML là viết tắt của Extensible Markup Language được sử dụng chủ yếu trong việc lập trình web. Nhưng nó cũng là một công nghệ không thể thiếu để lập trình ứng dụng Android.
 
 Sở dĩ bạn nên tìm hiểu về XML vì nhiều ứng dụng Android thường yêu cầu chuyển dữ liệu sang Web Services và ngược lại. Hiểu về XML là một kỹ năng phải có nếu bạn muốn trở thành một Android Developer chính hiệu.
 
-##Nguyên tắc thiết kế Material
+## Nguyên tắc thiết kế Material
 Mọi ứng dụng Android đều phải được lập trình tuân theo các nguyên tắc về Material Design. Các nguyên tắc liên quan đến những yếu tố cần thiết trong ứng dụng như vị trí phần tử, chuyển tiếp, màu sắc, sắc thái… Nếu ứng dụng Android không tuân thủ các nguyên tắc này sẽ không được Google chấp thuận để xuất bản lên Google Play.
 
-##Web Back end
+## Web Back end
 Bạn có thể tìm hiểu về kiến thức này để trở thành một lập trình viên Android Full Stack có thể lập trình cả ứng dụng di động và Web.
 
 Nếu định hướng của bạn không phải trở thành Android Full Stack mà là một Android Developer chuyên nghiệp thì cũng nên tìm hiểu về kiến thức này. Vì hiểu về nghiệp vụ Web Back end giúp bạn thuận tiên hơn để phối hợp với team (Vì ứng dụng di động và Web thường đi song song với nhau)
@@ -132,16 +136,16 @@ Tuy nhiên hiểu về kiến thức này giúp bạn nhanh chóng phát hiện 
 
 Bạn có thể thực hiện kiểm tra ứng dụng sau khi lập trình ứng dụng thông qua các phương pháp sau:
 
-Unit Testing
-Jasmine
-ESLint
-Karma
-Jest
-E2E Testing
-Protractor
-Cypress
+* Unit Testing
+* Jasmine
+* ESLint
+* Karma
+* Jest
+* E2E Testing
+* Protractor
+* Cypress
 
-##App Manifest
+## App Manifest
 Mọi dự án Android được lập trình phải có tệp AndroidManifest.xml nhằm mục tiêu mô tả thông tin cần thiết về ứng dụng để theo dõi như tên gói, điểm nhập, quyền, thành phần và siêu dữ liệu.
 
 ![markdown](https://blog.freec.asia/wp-content/uploads/2022/04/app-manifest.png)
