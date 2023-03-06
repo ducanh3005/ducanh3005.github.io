@@ -1,8 +1,8 @@
 ---
 title: Lộ trình phát triển Android
-tags: roadmap, android
+tags: roadmap android
 article_header:
-  type: roadmap
+  type: roadmap android
   image:
     src: /screenshot.jpg
 ---
