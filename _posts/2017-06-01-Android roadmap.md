@@ -6,6 +6,8 @@ article_header:
   image:
     src: /screenshot.jpg
 ---
+<div>{%- include extensions/soundcloud.html id='313627932' -%}</div>
+
 Mục đích chính của bài viết này là hướng dẫn bạn có một cái nhìn tổng quát để phát triển ứng dụng Android, hỗ trợ bạn tìm thấy lối đi cho việc lập trình Android của bạn.
 ## Mục lục
 - [Mục lục](#mục-lục)
