@@ -118,7 +118,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: "valine" # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: "gitalk" # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -130,9 +130,9 @@ comments:
     clientID    : aa6ebe32502820badba8 # GitHub Application Client ID
     clientSecret: 1801c97b08ccab1fc680037a42d238e974e710c0 # GitHub Application Client Secret
     repository  : https://github.com/ducanh3005/ducanh3005.github.io # GitHub repo
-    owner       : ducanh3005# GitHub repo owner
+    owner       : ducanh3005 # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+    ducanh3005  # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
