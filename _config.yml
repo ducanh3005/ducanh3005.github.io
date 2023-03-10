@@ -37,9 +37,9 @@ author:
   type      : # "person" (default), "organization"
   name      : Nguyễn Đức Anh
   url       :
-  avatar    : # path or url of avatar image (square)
+  avatar    : https://avatars.githubusercontent.com/u/61770725?v=4 # path or url of avatar image (square)
   bio       : I am a Android developer
-  email     :
+  email     : ynsuperit@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: ducanh3005/ducanh3005.github.io
 repository_tree: main
 
 
@@ -84,14 +84,14 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: # false (default), true
+mathjax: true # false (default), true
 mathjax_autoNumber: # false (default), true
 
 ## Mermaid
-mermaid: # false (default), true
+mermaid: true # false (default), true
 
 ## Chart
-chart: # false (default), true
+chart: true # false (default), true
 
 
 ## => Paginate
