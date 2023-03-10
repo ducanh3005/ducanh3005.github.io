@@ -132,14 +132,14 @@ comments:
     repository  : ducanh3005.github.io # GitHub repo
     owner       : ducanh3005 # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-    61770725 # - your GitHub Id
+    - 61770725 # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
   valine:
     app_id      : giFySvsQK0iCu8lDIq6dXB7q-MdYXbMMI # LeanCloud App id
     app_key     : UcI8uglR4oIy9spbJ7qibEbN # LeanCloud App key
-    placeholder : Comment# Prompt information
+    placeholder : Comment # Prompt information
     visitor     : true # false (default)
     meta        : [nick] # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
 
