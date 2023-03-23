@@ -1,1 +1,1 @@
-<img src="./image.png"  width=50% height=50%>
+![](./image.png =1000x1415)
