@@ -1,5 +1,5 @@
 ---
-title: Một số Plugin hay cho Android Studio
+title: Xử lý multithread trong Android
 tags: android
 article_header:
   type: android

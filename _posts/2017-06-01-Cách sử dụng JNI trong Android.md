@@ -1,5 +1,5 @@
 ---
-title: Một số Plugin hay cho Android Studio
+title: Cách sử dụng JNI trong Android
 tags: android
 article_header:
   type: android
